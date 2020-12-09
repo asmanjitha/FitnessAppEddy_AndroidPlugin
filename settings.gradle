@@ -1,0 +1,3 @@
+include ':loginmodule'
+include ':app'
+rootProject.name = "FitnessAppEddy"
